@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  max-width: 60%;
+  object-fit: cover;
+}
+
+.Nasa-photo-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.explanation {
+  max-width: 60%;
+}
